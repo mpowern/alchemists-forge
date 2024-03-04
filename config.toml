@@ -77,5 +77,3 @@ disqus = "<your_disqus_shortname>"
 [extra.mapbox]
 enabled = true
 access_token = "<your_access_token>"
-
-# A new line to test commit
